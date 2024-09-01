@@ -1,6 +1,6 @@
 # Components::RTC
 
-RV 30-28-C7 RTC for keeping and tracking time, alerting, and back up power storage
+RV 30-28-C7 RTC for keeping time, alerting, and facilitating back-up power storage
 
 ## Usage Examples
 Add usage examples here
