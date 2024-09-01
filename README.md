@@ -4,7 +4,7 @@ Real Time Clock (RTC) Component code for the F Prime framework. Specifically tai
 
 ### **Component details**
 
-Component name: RV3028 
+Component name: RTC 
 
 Component namespace: Components
 
